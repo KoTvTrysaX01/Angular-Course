@@ -1,0 +1,15 @@
+npm i @angular/cli -g                       ---> Install latest Angular
+npm i @angular/cli@13.0.1 -g                ---> Install specific version of Angular
+
+ng --version                                ---> Check the version of installed angular
+
+ng new {name}                               ---> Creates new workplace with project
+ng new {name} --createApplication=false     ---> Creates new empty workplace
+npm i                                       ---> Install necessary packages
+
+ng serve -o                                 ---> Run the createApplication
+ng generate component {name}                ---> Create component {name}
+ng g c {name}                               ---> Short version
+
+ng add ngx-bootstrap                        ---> Add bootstrap ?
+npm i botstrap                              ---> Install bootstrap
