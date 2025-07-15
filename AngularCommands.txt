@@ -13,3 +13,5 @@ ng g c {name}                               ---> Short version
 
 ng add ngx-bootstrap                        ---> Add bootstrap ?
 npm i botstrap                              ---> Install bootstrap
+
+ng g s {name}                               ---> Create new serivce
