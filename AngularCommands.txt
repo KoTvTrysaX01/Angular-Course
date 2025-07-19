@@ -14,4 +14,8 @@ ng g c {name}                               ---> Short version
 ng add ngx-bootstrap                        ---> Add bootstrap ?
 npm i botstrap                              ---> Install bootstrap
 
-ng g s {name}                               ---> Create new serivce
+ng g s {name}                               ---> Creates new serivce
+ng g m {name}                               ---> Creates new module
+ng g m {name} --flat=true                   ---> Creates new module without a folder??
+
+ng build -c=production                      ---> Build the application in the production mode?
